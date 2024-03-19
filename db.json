@@ -134,7 +134,7 @@
       "name": "Classic Fries",
       "description": "Crispy on the outside and fluffy on the inside, classic French fries are seasoned with salt and served hot and fresh.",
       "price": 79,
-      "thumbnail": "images/"
+      "thumbnail": "images/fries.png"
     },
     {
       "id": 18,
@@ -267,7 +267,8 @@
     {
       "id": 34,
       "type": "Drinks",
-      "drink-type": "Crazy Shakes",
+      "drinkType": "Crazy Shakes",
+      "drink": 1,
       "name": "Choco Frosty",
       "description": null,
       "price": 99,
@@ -276,7 +277,8 @@
     {
       "id": 35,
       "type": "Drinks",
-      "drink-type": "Crazy Shakes",
+      "drinkType": "Crazy Shakes",
+      "drink": 1,
       "name": "Choco Madness",
       "description": null,
       "price": 129,
@@ -285,7 +287,8 @@
     {
       "id": 36,
       "type": "Drinks",
-      "drink-type": "Crazy Shakes",
+      "drinkType": "Crazy Shakes",
+      "drink": 1,
       "name": "Oreo Monster",
       "description": null,
       "price": 129,
@@ -294,7 +297,8 @@
     {
       "id": 37,
       "type": "Drinks",
-      "drink-type": "Crazy Shakes",
+      "drinkType": "Crazy Shakes",
+      "drink": 1,
       "name": "Kitkat Overload",
       "description": null,
       "price": 129,
@@ -303,7 +307,8 @@
     {
       "id": 38,
       "type": "Drinks",
-      "drink-type": "Crazy Shakes",
+      "drinkType": "Crazy Shakes",
+      "drink": 2,
       "name": "Dulce de Leche",
       "description": null,
       "price": 129,
@@ -312,7 +317,8 @@
     {
       "id": 39,
       "type": "Drinks",
-      "drink-type": "Crazy Shakes",
+      "drinkType": "Crazy Shakes",
+      "drink": 2,
       "name": "Mango Graham",
       "description": null,
       "price": 129,
@@ -321,7 +327,8 @@
     {
       "id": 40,
       "type": "Drinks",
-      "drink-type": "Crazy Shakes",
+      "drinkType": "Crazy Shakes",
+      "drink": 2,
       "name": "Iced Caramel",
       "description": null,
       "price": 129,
@@ -330,7 +337,8 @@
     {
       "id": 41,
       "type": "Drinks",
-      "drink-type": "Crazy Shakes",
+      "drinkType": "Crazy Shakes",
+      "drink": 2,
       "name": "Dark Choco Locco",
       "description": null,
       "price": 129,
@@ -339,7 +347,7 @@
     {
       "id": 42,
       "type": "Drinks",
-      "drink-type": "Soda",
+      "drinkType": "Soda",
       "name": "Coke",
       "description": null,
       "price": 50,
@@ -348,7 +356,7 @@
     {
       "id": 43,
       "type": "Drinks",
-      "drink-type": "Soda",
+      "drinkType": "Soda",
       "name": "Coke Light",
       "description": null,
       "price": 50,
@@ -357,7 +365,7 @@
     {
       "id": 44,
       "type": "Drinks",
-      "drink-type": "Soda",
+      "drinkType": "Soda",
       "name": "Coke Zero",
       "description": null,
       "price": 50,
@@ -366,7 +374,7 @@
     {
       "id": 45,
       "type": "Drinks",
-      "drink-type": "Soda",
+      "drinkType": "Soda",
       "name": "Royal",
       "description": null,
       "price": 50,
@@ -375,7 +383,7 @@
     {
       "id": 46,
       "type": "Drinks",
-      "drink-type": "Soda",
+      "drinkType": "Soda",
       "name": "Sprite",
       "description": null,
       "price": 50,
@@ -384,16 +392,16 @@
     {
       "id": 47,
       "type": "Drinks",
-      "drink-type": "Soda",
+      "drinkType": "Soda",
       "name": "Rootbeer",
       "description": null,
       "price": 50,
-      "thumbnail": "/images/"
+      "thumbnail": "/images/rootbeer.png"
     },
     {
       "id": 48,
       "type": "Drinks",
-      "drink-type": "Juice",
+      "drinkType": "Juice",
       "name": "Iced Tea",
       "description": null,
       "price": 50,
@@ -402,7 +410,7 @@
     {
       "id": 49,
       "type": "Drinks",
-      "drink-type": "Juice",
+      "drinkType": "Juice",
       "name": "Lemonade",
       "description": null,
       "price": 50,
@@ -411,7 +419,7 @@
     {
       "id": 50,
       "type": "Drinks",
-      "drink-type": "Juice",
+      "drinkType": "Juice",
       "name": "Cranberry",
       "description": null,
       "price": 50,
@@ -420,7 +428,7 @@
     {
       "id": 51,
       "type": "Drinks",
-      "drink-type": "Juice",
+      "drinkType": "Juice",
       "name": "Strawberry",
       "description": null,
       "price": 50,
@@ -429,7 +437,7 @@
     {
       "id": 52,
       "type": "Drinks",
-      "drink-type": "Juice",
+      "drinkType": "Juice",
       "name": "Pineaplle",
       "description": null,
       "price": 50,
@@ -438,7 +446,7 @@
     {
       "id": 53,
       "type": "Drinks",
-      "drink-type": "Juice",
+      "drinkType": "Juice",
       "name": "Grapes",
       "description": null,
       "price": 50,
@@ -447,7 +455,7 @@
     {
       "id": 54,
       "type": "Drinks",
-      "drink-type": "Smoothies",
+      "drinkType": "Smoothies",
       "name": "Mango",
       "description": null,
       "price": 50,
@@ -456,7 +464,7 @@
     {
       "id": 55,
       "type": "Drinks",
-      "drink-type": "Smoothies",
+      "drinkType": "Smoothies",
       "name": "Strawberry",
       "description": null,
       "price": 50,
@@ -474,12 +482,14 @@
     {
       "id": 57,
       "type": "Drinks",
-      "drink-type": "Smoothies",
+      "drinkType": "Smoothies",
       "name": "Watermelon",
       "description": null,
       "price": 50,
       "thumbnail": "/images/watermelon_shake.png"
     }
   ],
-  "types": ["Chicken Wings", "Burger", "Fries", "Nachos", "Combo", "Drinks"]
+  "types": ["Chicken Wings", "Burger", "Fries", "Nachos", "Combo", "Drinks"],
+  "drinkType": ["Soda", "Smoothies", "Juice", "Crazy Shakes"],
+  "drink": [1, 2]
 }
